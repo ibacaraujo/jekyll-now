@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am a computer engineering student and I would like to improve this page.
+I am Iago Breno, a computer engineering student.
 
 ### More Information
 
-More information will be added!
+I am working on machine learning.
 
 ### Contact me
 
